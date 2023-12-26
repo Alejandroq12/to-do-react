@@ -3,19 +3,28 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Edita el archivo <code>src/App.js</code> y guarda para recargar.
-        </p>
-        <a
-          className="App-link"
-          href="https://react.dev/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <TodoCounter />
+      <TodoSearch />
+
+      <TodoList>
+        <TodoItem />
+        <TodoItem />
+        <TodoItem />
+      </TodoList>
+
+      <CreateTodoButton />
+    </div>
+  );
+}
+
+function TodoItem() {
+  return (
+    <div>
+      <li>
+        <span>V</span>
+        <p>Estudiar reac.js una hora</p>
+        <span>X</span>
+      </li>
     </div>
   );
 }
