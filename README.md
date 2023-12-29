@@ -1,19 +1,19 @@
-# math-fans
+# to-do-app
 
 <a name="readme-top"></a>
 
 <div align="center">
     <img src="./public/logo.png" alt="logo" width="550"  height="auto" />
   <br/>
-  <h3><b>Math Fans</b></h3>
+  <h3><b>To Do App</b></h3>
 
 </div>
 <!-- TABLE OF CONTENTS -->
 # 📗 Table of Contents
 
-- [math-fans](#math-fans)
+- [to-do-app](#to-do-app)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖Math Fans ](#math-fans-)
+- [📖To Do App ](#to-do-app-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -35,9 +35,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖Math Fans <a name="about-project"></a>
+# 📖To Do App <a name="about-project"></a>
 
-"Math Fans" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:  Make simple calculations. Read a random math-related quote. By building this application, I will learn how to use React.
+Under construction!
 
 ## 🛠 Built With <a name="built-with"></a>
 HTML,
