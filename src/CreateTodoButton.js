@@ -1,6 +1,6 @@
 function CreateTodoButton() {
   return (
-    <button>Create task</button>
+    <button>+</button>
   );
 }
 
