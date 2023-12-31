@@ -3,7 +3,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-    <img src="./public/logo.png" alt="logo" width="550"  height="auto" />
+    <img src="./src/assets/logo-julio.png" alt="logo" width="550"  height="auto" />
   <br/>
   <h3><b>To Do App</b></h3>
 
