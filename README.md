@@ -40,6 +40,7 @@
 Under construction!
 
 ## 🛠 Built With <a name="built-with"></a>
+
 HTML,
 CSS,
 JavaScript,
@@ -63,21 +64,12 @@ React.js
     <li><a href="https://www.npmjs.com/">npm</a></li>
   </ul>
 </details>
-<details>
-  <summary>Linters</summary>
-  <ul>
-      <li><a href="https://eslint.org/">ESLint</a></li>
-      <li><a href="https://stylelint.io/">Stylelint</a></li>
-  </ul>
-</details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **Make simple calculations.**
-- **Read a random math-related quote.**
-- **Fetch data from API.**
+- **Use of props to allow component comunicate with each other.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,9 +77,8 @@ React.js
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link Netlify](https://warm-nasturtium-2364c6.netlify.app/)
-- 
-- [Live Demo Link Render](https://math-fans.onrender.com)
+<!-- - [Live Demo]() -->
+Under construction.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
