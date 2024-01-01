@@ -103,12 +103,13 @@ In order to run this project you need:
 Clone this repository to your desired folder or download the Zip folder:
 
 ```
-https://github.com/Alejandroq12/math-fans.git
+https://github.com/Alejandroq12/to-do-react.git
+
 ```
 
 - Navigate to the location of the folder in your machine:
 
-**``you@your-Pc-name:~$ cd math-fans``**
+**``you@your-Pc-name:~$ cd to-do-react``**
 
 ### Install
 
@@ -162,8 +163,8 @@ You can deploy this project using: Render or Netlify,
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [x] **I will create a responsive website.**
-- [ ] **i will add more pages.**
+- [ ] **I will use props to pass information between components.**
+- [ ] **I will make it responsive.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,9 +198,9 @@ I want to thank all my colleagues that share knowledge with and inspired to to i
 
 ## ❓ FAQ <a name="faq"></a>
 
-- **Did you created this project from zero?**
+- **What did you learn with this project?**
 
-  - Of course, as if it were a real life job scenario.
+  - I learned a lot about props and how they enable components to communicate with each other. I also learned how to add styles using CSS and about Local Storage for data persistence. Additionally, I learned about React Hooks and how to follow best practices.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
